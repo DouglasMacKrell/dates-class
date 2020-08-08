@@ -4,6 +4,6 @@
 // What is the result of new Date(0)? By what name is this date known?
 // What is your birth date in ISO8601 format?
 
-let dougBday = new Date("1980-05-28T06:04:00.553Z");
+let randomDate = new Date("1980-05-28T06:04:00.553Z");
 
-console.log(dougBday.toString())
+console.log(randomDate.toString())
